@@ -1,4 +1,3 @@
-# Bilgisayar Lab. I - 3 No'lu Bilgisayar | Sonat Saygın İPEK & 90210000216
 import tkinter as tk
 
 # Class Tanımlaması
